@@ -44,6 +44,26 @@ flowchart TD
     E --> F[Streamlit Dashboard - Real Time Insights]
     F --> G[Country Comparison and Sustainability Analytics]
 
+git clone https://github.com/ViivianREINE/Carbon-Footprint-Calculator-using-Advanced-Machine-Learning-CNN.git
+cd Carbon-Footprint-Calculator-using-Advanced-Machine-Learning-CNN
+
+pip install -r requirements.txt
+
+
+streamlit run app.py
+
+
+http://localhost:8501
+
+Screenshots / Demo
+🔹 Dashboard Home
+
+🔹 Emission Breakdown (Category-wise)
+
+🔹 Global Comparison Heatmap
+
+🔹 Demo GIF (User Interaction)
+
 Usage
 
 1.Enter lifestyle inputs (transport, electricity, diet, waste).
@@ -71,4 +91,5 @@ Priyam Parashar
 Biotechnology Engineering Student | AI & Sustainability Enthusiast
 📍 VR Academy, Bengaluru
 🎓 Mentor: Mr. Vijayanand
+
 
