@@ -45,8 +45,7 @@ flowchart TD
     F --> G[Country Comparison and Sustainability Analytics]
 
 
-
-📊 Usage
+Usage
 
 Enter lifestyle inputs (transport, electricity, diet, waste).
 
@@ -56,25 +55,26 @@ Explore interactive dashboards with category-wise breakdowns.
 
 Compare results against global and national averages.
 
-🔮 Future Enhancements
+Future Enhancements
 
-🌐 Cloud Deployment on AWS / GCP / Streamlit Cloud
+1.Cloud Deployment on AWS / GCP / Streamlit Cloud
 
-🔌 API Integration for modular sustainability apps
+2.API Integration for modular sustainability apps
 
-🤖 Advanced ML Models (RNN, ensembles, time-series forecasting)
+3 Advanced ML Models (RNN, ensembles, time-series forecasting)
 
-💡 Personalized Recommendations for reducing emissions
+4.Personalized Recommendations for reducing emissions
 
-📊 Global Data Integration (IPCC, OWID)
+5. Global Data Integration (IPCC, OWID)
 
 
-👨‍💻 Author
+Author
 
 Priyam Parashar
 Biotechnology Engineering Student | AI & Sustainability Enthusiast
 📍 VR Academy, Bengaluru
 🎓 Mentor: Mr. Vijayanand
+
 
 
 
