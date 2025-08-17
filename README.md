@@ -43,8 +43,7 @@ flowchart TD
     D --> E[Visualization - Matplotlib, Seaborn]
     E --> F[Streamlit Dashboard - Real Time Insights]
     F --> G[Country Comparison and Sustainability Analytics]
-
-
+```
 Usage
 
 Enter lifestyle inputs (transport, electricity, diet, waste).
@@ -74,6 +73,7 @@ Priyam Parashar
 Biotechnology Engineering Student | AI & Sustainability Enthusiast
 📍 VR Academy, Bengaluru
 🎓 Mentor: Mr. Vijayanand
+
 
 
 
