@@ -9,7 +9,6 @@ A simple Streamlit app for calculating the Carbon Footprint.
 
 A sophisticated **machine learning–driven web application** that estimates and visualizes individual CO₂ emissions using **Convolutional Neural Networks (CNN)**. Built with a focus on **scalability, usability, and environmental sustainability**.
 
----
 
 ## ✨ Key Features
 
@@ -19,7 +18,7 @@ A sophisticated **machine learning–driven web application** that estimates and
 - **Visual Insights** – Category breakdowns and global comparisons via **Matplotlib** and **Seaborn**.  
 - **Cloud-Ready Architecture** – API-first design for easy deployment and scaling.  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -32,36 +31,41 @@ A sophisticated **machine learning–driven web application** that estimates and
 | **Frontend**           | Streamlit                                          |
 | **Deployment**         | Cloud-ready, API-based integration                 |
 
----
+
 
 ## 📂 Project Workflow
 
 ```mermaid
 flowchart TD
-    A[User Input: Transport, Energy, Diet, Waste] --> B[Data Preprocessing: Pandas, NumPy]
-    B --> C[CNN Model: TensorFlow/Keras]
-    C --> D[Emission Prediction (CO₂ tonnes/year)]
-    D --> E[Visualization: Matplotlib, Seaborn]
-    E --> F[Streamlit Dashboard for Real-Time Insights]
-    F --> G[Country Comparison & Sustainability Analytics]
-
-Usage:
+    A[User Input: Transport, Energy, Diet, Waste] --> B[Data Preprocessing - Pandas, NumPy]
+    B --> C[CNN Model - TensorFlow/Keras]
+    C --> D[Emission Prediction - CO2 tonnes per year]
+    D --> E[Visualization - Matplotlib, Seaborn]
+    E --> F[Streamlit Dashboard - Real Time Insights]
+    F --> G[Country Comparison and Sustainability Analytics]
+Usage
 
 1.Enter lifestyle inputs (transport, electricity, diet, waste).
+
 2.Submit for CNN-powered carbon footprint prediction.
+
 3.Explore interactive dashboards with category-wise breakdowns.
+
 4.Compare results against global and national averages.
 
-Future Enhancements:
+Future Enhancements
 
-🌐 Cloud Deployment on AWS / GCP / Streamlit Cloud
-🔌 API Integration for modular sustainability apps
-🤖 Advanced ML Models (RNN, ensembles, time-series forecasting)
-💡 Personalized Recommendations for reducing emissions
-📊 Global Data Integration (IPCC, OWID)
+1.Add more lifestyle factors (shopping, travel, water usage).
+
+2.Integration with live sustainability APIs.
+
+3.Mobile-friendly dashboard version.
+
+4.Personalized sustainability recommendations.
 
 
-Author:
+Author
+
 Priyam Parashar
 Biotechnology Engineering Student | AI & Sustainability Enthusiast
 📍 VR Academy, Bengaluru
