@@ -1,5 +1,3 @@
-# Carbon-Footprint-Calculator
-A simple Streamlit app for calculating the Carbon Footprint. 
 # 🌍 Carbon Footprint Calculator using Advanced Machine Learning (CNN)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
@@ -7,8 +5,10 @@ A simple Streamlit app for calculating the Carbon Footprint.
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
-A sophisticated **machine learning–driven web application** that estimates and visualizes individual CO₂ emissions using **Convolutional Neural Networks (CNN)**. Built with a focus on **scalability, usability, and environmental sustainability**.
+A sophisticated **machine learning–driven web application** that estimates and visualizes individual CO2 emissions using **Convolutional Neural Networks (CNN)**.  
+Built with a focus on **scalability, usability, and environmental sustainability**.  
 
+---
 
 ## ✨ Key Features
 
@@ -18,7 +18,7 @@ A sophisticated **machine learning–driven web application** that estimates and
 - **Visual Insights** – Category breakdowns and global comparisons via **Matplotlib** and **Seaborn**.  
 - **Cloud-Ready Architecture** – API-first design for easy deployment and scaling.  
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +31,7 @@ A sophisticated **machine learning–driven web application** that estimates and
 | **Frontend**           | Streamlit                                          |
 | **Deployment**         | Cloud-ready, API-based integration                 |
 
-
+---
 
 ## 📂 Project Workflow
 
@@ -44,52 +44,48 @@ flowchart TD
     E --> F[Streamlit Dashboard - Real Time Insights]
     F --> G[Country Comparison and Sustainability Analytics]
 
+Clone this repository:
 git clone https://github.com/ViivianREINE/Carbon-Footprint-Calculator-using-Advanced-Machine-Learning-CNN.git
 cd Carbon-Footprint-Calculator-using-Advanced-Machine-Learning-CNN
 
+Install dependencies:
 pip install -r requirements.txt
 
-
+Run the Streamlit app:
 streamlit run app.py
 
-
+Access the app at:
 http://localhost:8501
 
-Screenshots / Demo
-🔹 Dashboard Home
+📊 Usage
 
-🔹 Emission Breakdown (Category-wise)
+Enter lifestyle inputs (transport, electricity, diet, waste).
 
-🔹 Global Comparison Heatmap
+Submit for CNN-powered carbon footprint prediction.
 
-🔹 Demo GIF (User Interaction)
+Explore interactive dashboards with category-wise breakdowns.
 
-Usage
+Compare results against global and national averages.
 
-1.Enter lifestyle inputs (transport, electricity, diet, waste).
+🔮 Future Enhancements
 
-2.Submit for CNN-powered carbon footprint prediction.
+🌐 Cloud Deployment on AWS / GCP / Streamlit Cloud
 
-3.Explore interactive dashboards with category-wise breakdowns.
+🔌 API Integration for modular sustainability apps
 
-4.Compare results against global and national averages.
+🤖 Advanced ML Models (RNN, ensembles, time-series forecasting)
 
-Future Enhancements
+💡 Personalized Recommendations for reducing emissions
 
-1.Add more lifestyle factors (shopping, travel, water usage).
-
-2.Integration with live sustainability APIs.
-
-3.Mobile-friendly dashboard version.
-
-4.Personalized sustainability recommendations.
+📊 Global Data Integration (IPCC, OWID)
 
 
-Author
+👨‍💻 Author
 
 Priyam Parashar
 Biotechnology Engineering Student | AI & Sustainability Enthusiast
 📍 VR Academy, Bengaluru
 🎓 Mentor: Mr. Vijayanand
+
 
 
