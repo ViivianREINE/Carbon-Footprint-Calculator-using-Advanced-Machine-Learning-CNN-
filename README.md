@@ -47,25 +47,35 @@ flowchart TD
 Usage
 
 1.Enter lifestyle inputs (transport, electricity, diet, waste).
+
 2.Submit for CNN-powered carbon footprint prediction.
+
 3.Explore interactive dashboards with category-wise breakdowns.
+
 4.Compare results against global and national averages.
 
 Future Enhancements
 
-1.Cloud Deployment on AWS / GCP / Streamlit Cloud
-2.API Integration for modular sustainability apps
-3 Advanced ML Models (RNN, ensembles, time-series forecasting)
-4.Personalized Recommendations for reducing emissions
-5. Global Data Integration (IPCC, OWID)
+1.Cloud Deployment on AWS / GCP / Streamlit Cloud.
 
+2.API Integration for modular sustainability apps.
+
+3 Advanced ML Models (RNN, ensembles, time-series forecasting).
+
+4.Personalized Recommendations for reducing emissions.
+
+5. Global Data Integration (IPCC, OWID).
 
 Author
 
 Priyam Parashar
-Biotechnology Engineering Student | AI & Sustainability Enthusiast
+
+Biotechnology Engineering Student | Software, AI & Sustainability Enthusiast
+
 📍 VR Academy, Bengaluru
+
 🎓 Mentor: Mr. Vijayanand
+
 
 
 
